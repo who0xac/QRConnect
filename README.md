@@ -23,7 +23,7 @@ QRConnect is a lightweight, efficient QR code generator tool built in Python. Th
 
 1. Clone the repository
    ```
-   git clone https://github.com/GarudaR007X/qrconnect.git
+   git clone https://github.com/who0xac/qrconnect.git
    cd qrconnect
    ```
 
@@ -99,9 +99,9 @@ Contributions to QRConnect are welcome! To contribute:
 
 ## 📞 Contact
 
-GarudaR007X - [GitHub Profile](https://github.com/GarudaR007X)
+who0xac - [GitHub Profile](https://github.com/who0xac)
 
-Project Link: [https://github.com/GarudaR007X/qrconnect](https://github.com/GarudaR007X/qrconnect)
+Project Link: [https://github.com/who0xac/qrconnect](https://github.com/who0xac/qrconnect)
 
 ---
 
